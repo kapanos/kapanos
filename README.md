@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kapanos
-- 👀 I’m interested in Excel, VBA and SQL
+- 👀 Enjoy building applications with VBA and SQL in Excel and Access
 - 🌱 Started dabbling in Python
 - 🌱 2 College semesters of JAVA
 - 💞️ Looking for Data Analyst Work
