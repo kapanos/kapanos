@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @kapanos
 - 👀 I’m interested in Excel, VBA and SQL
-- 🌱 Wanting to learn Python
+- 🌱 Started dabbling in Python
+- 🌱 2 College semesters of JAVA
 - 💞️ Looking for Data Analyst Work
 - 📫 How to reach me: aviatrix2@comcast.net
 
